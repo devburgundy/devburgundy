@@ -16,7 +16,7 @@ I'm Backend Developer burgundy! 👋🏻
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
-<-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
+<!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
