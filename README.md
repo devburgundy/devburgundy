@@ -30,7 +30,7 @@ I'm Backend Developer burgundy! 👋🏻
 </p>
 <br>
 
-<a href="https://wakatime.com"style="width:50px;height:30px;"><img src="https://wakatime.com/share/@0482fbda-ddd6-4b93-a8f9-35b4d3cc1862/205ca88e-d1ed-431f-819b-0ee4a1121e0b.png" /></a>
+<a href="https://wakatime.com" style="width:50px;height:30px;"><img src="https://wakatime.com/share/@0482fbda-ddd6-4b93-a8f9-35b4d3cc1862/205ca88e-d1ed-431f-819b-0ee4a1121e0b.png" /></a>
 
 <br>
 
