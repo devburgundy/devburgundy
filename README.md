@@ -30,6 +30,10 @@ I'm Backend Developer burgundy! 👋🏻
 </p>
 <br>
 
+<figure><embed src="https://wakatime.com/share/@0482fbda-ddd6-4b93-a8f9-35b4d3cc1862/12130124-1780-4fc8-8bd1-f09846f6c150.svg"></embed></figure>
+
+<br>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devburgundy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
