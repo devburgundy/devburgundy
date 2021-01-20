@@ -4,6 +4,7 @@ Hi there, <br>
 I'm Backend Developer burgundy! 👋🏻
 </h3>  
 
+<br>
 <h3 align="left">🛠 Tech Stack </h3>
 
 <h4 align="left">FrontEnd</h3>
@@ -28,4 +29,5 @@ I'm Backend Developer burgundy! 👋🏻
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white" /></a>
 </p>
 
+<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devburgundy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
