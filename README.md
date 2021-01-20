@@ -34,7 +34,6 @@ I'm Backend Developer burgundy! 👋🏻
 <p align="left">
 <a href="mailto:dev.burgundy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
-
 <br>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@0482fbda-ddd6-4b93-a8f9-35b4d3cc1862/205ca88e-d1ed-431f-819b-0ee4a1121e0b.png" /></a>
