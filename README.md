@@ -1,7 +1,7 @@
 <br>
 <h3 align="left">
 Hi there, <br>
-I'm Backend Developer burgundy! 👋🏻
+I'm Backend Developer suhee! 👋🏻
 </h3>  
 
 <br>
