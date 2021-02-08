@@ -32,7 +32,7 @@ I'm Backend Developer suhee! 👋🏻
 
 <h3 align="left">📞 Contact </h3>
 <p align="left">
-<a href="mailto:dev.burgundy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:dev.suhee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
 <br>
 
